@@ -1,4 +1,4 @@
-"""COMP 110 is my favorite class I love Kris Jordan so much."""
+"""One-Shot Wordle."""
 
 __author__ = '730449902'
 
